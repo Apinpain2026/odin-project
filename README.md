@@ -1,1 +1,1 @@
-# odin-project
+i have started odin project this is my first project  started  10-07-2025 aiming  to learn full stack development  iam hoping to complete from odin only see you  i will edit the day i am starting build projects on yself
